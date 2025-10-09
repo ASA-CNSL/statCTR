@@ -5,7 +5,7 @@ fig-cap-location: top
 
 ## Introduction
 
-Welcome to StatCTR; a repository of publicly-contributed and publicly-available training resources for statistical consulting and collaboration. The goal of this website is to provide an open-sourced, community-driven repository for [**training videos**](https://www.statctr.com/videos.html) and [**online resources**](https://www.statctr.com/resources.html). 
+Welcome to StatCTR; a repository of publicly-contributed and publicly-available training resources for statistical consulting and collaboration. The goal of this website is to provide an open-sourced, community-driven repository for [**training videos**](https://www.statctr.com/videos.html) and [**online resources**](https://www.statctr.com/resources.html).
 
 ::: {layout="[45, -10, 45]"}
 [![Training Videos](scs-thumbnail.jpg)](https://www.statctr.com/videos.html)
@@ -13,11 +13,12 @@ Welcome to StatCTR; a repository of publicly-contributed and publicly-available 
 [![Online Resources](statCTR-thumbnail.png)](https://www.statctr.com/resources.html)
 :::
 
-
-## Submit to our repository! 
+## Submit to our repository!
 
 We encourage you to submit resources to our resource or video repository. Here are [instructions for submitting a video](videos.qmd#submit-your-video-to-our-website) and the [form to fill out to submit a new resource](https://forms.gle/GG3ao19WudScgZ838).
 
-## Who we are 
+## Who we are
 
-Visit our [about us](https://www.statctr.com/about.html) page to learn more.
+This repository began as a collaboration between Ryan Peterson, Julia Sharp, and Emily Griffith. It is now maintained by the ASA's [Statistical Consulting Section](https://community.amstat.org/cnsl/home). Visit this website's [about us](https://www.statctr.com/about.html) page to learn more.
+
+The ASA Consulting Section provides this site as a community resource. The content here reflects the views and expertise of individual contributors and does not represent official positions or endorsements by the ASA. The ASA is not responsible for the accuracy or completeness of the information provided.

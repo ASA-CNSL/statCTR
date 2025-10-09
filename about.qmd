@@ -4,28 +4,32 @@ title: "About"
 
 ## Who we are
 
--   Ryan Peterson: [personal website](https://petersonR.github.io), <a href="https://www.twitter.com/ryan_peterson1">{{< fa brands twitter >}}</a>, <a href="https://github.com/petersonR"> {{< fa brands github >}}</a>, <a href="https://orcid.org/0000-0002-4650-5798"> {{< fa brands orcid >}}</a>
--   Emily Griffith: [personal website](https://sites.google.com/ncsu.edu/emilyhgriffith), <a href="https://www.twitter.com/EmilyHGriffith1">{{< fa brands twitter >}}</a>
--   Julia Sharp: [personal website](https://sites.google.com/view/juliasharp/home), <a href="https://www.twitter.com/JuliaSharpStats">{{< fa brands twitter >}}</a>
+::: callout-note
+This repository has begun the process of being migrated over to the American Statistical Association's Statistical Consulting Section for upkeep and maintenance.
+:::
 
 ## History
 
 Teaching statistical consulting, collaboration, and communication can be challenging. While there are many resources available, they may be difficult to find, share, and use.
 
-For example, Janice Derr’s classic textbook “Statistical Consulting: A Guide to Effective Communication” contains a terrific video storyline portraying positive and negative statistical consulting interactions (Derr 2000). However, while the videos are quite valuable, they are increasingly difficult to obtain as the textbook is out of print and the video file format is not widely supported.  
+For example, Janice Derr’s classic textbook “Statistical Consulting: A Guide to Effective Communication” contains a terrific video storyline portraying positive and negative statistical consulting interactions (Derr 2000). However, while the videos are quite valuable, they are increasingly difficult to obtain as the textbook is out of print and the video file format is not widely supported.
 
-After discussing these concerns and finding a shared interest in new videos, Julia Sharp (Colorado State University), Megan Higgs (Critical Inference, LLC), and Emily Griffith (NC State University) were funded through the American Statistical Association’s member initiatives in 2019 to create a series of ten modern, freely available, collaboration training videos. The videos were filmed in October of 2019 at Colorado State University under the direction of video producer and videographer Mona Maser. The videos were posted on YouTube and the corresponding curriculum was published in the Journal of Statistics and Data Science Education (Sharp, Griffith, Higgs 2021).
+After discussing these concerns and finding a shared interest in new videos, Julia Sharp (NIST; [website](https://sites.google.com/view/juliasharp/home)), Megan Higgs (Critical Inference, LLC), and Emily Griffith (NC State University; [website](https://sites.google.com/ncsu.edu/emilyhgriffith)) were funded through the American Statistical Association’s member initiatives in 2019 to create a series of ten modern, freely available, collaboration training videos. The videos were filmed in October of 2019 at Colorado State University under the direction of video producer and videographer Mona Maser. The videos were posted on YouTube and the corresponding curriculum was published in the Journal of Statistics and Data Science Education (Sharp, Griffith, Higgs 2021).
 
-Ryan Peterson, Assistant Professor of Biostatistics at the Colorado School of Public Health at the University of Colorado, used the newer training videos in his course, Statistical Consulting I. One of the projects he created was for student groups to create their own videos illustrating an issue that can arise in collaborative statistical work. 
+Ryan Peterson (University of Iowa; [website](https://petersonR.github.io)), while faculty at the Colorado School of Public Health, used the newer training videos in his course, Statistical Consulting I. One of the projects he created was for student groups to create their own videos illustrating an issue that can arise in collaborative statistical work.
 
-Inspired by the students’ work, Ryan Peterson, Julia Sharp, and Emily Griffith developed this video and resource repository. The video repository contains freely available videos that are useful for training and education in statistical collaboration and consulting. 
+Inspired by the students’ work, Ryan Peterson, Julia Sharp, and Emily Griffith developed this video and resource repository. The video repository contains freely available videos that are useful for training and education in statistical collaboration and consulting.
 
-The resource repository is an extensive bibliography of works related to statistical collaboration and consulting, including articles focused on communication, career development, and more! 
-We hope that you enjoy this resource, find it helpful, and invite you to add to it with your own work and the work of others that you enjoy!
+The resource repository is an extensive bibliography of works related to statistical collaboration and consulting, including articles focused on communication, career development, and more! We hope that you enjoy this resource, find it helpful, and invite you to add to it with your own work and the work of others that you enjoy!
 
 **References**
 
-Derr, J (2000), Statistical Consulting: A Guide to Effective Communication, Pacific Grove, CA: Brooks/Cole Press. 
+Derr, J (2000), Statistical Consulting: A Guide to Effective Communication, Pacific Grove, CA: Brooks/Cole Press.
 
 Sharp, JL, EH Griffith, and MD Higgs (2021), “Setting the Stage: Statistical Collaboration Videos for Training the Next Generation of Applied Statisticians,” Journal of Statistics and Data Science Education, 29:2, 165-170, DOI: 10.1080/26939169.2021.1934202
 
+**Disclaimer of Endorsement and Responsibility:**\
+
+This website is maintained by members of the American Statistical Association’s Section on Statistical Consulting (ASA-CNSL) for informational and community purposes. The appearance of external links, member listings, or other materials on this site does not constitute an endorsement by the ASA of the views, opinions, products, or services referenced therein.
+
+The ASA makes no representations or warranties of any kind, express or implied, regarding the completeness, accuracy, reliability, or suitability of the information contained herein. Users of this site assume full responsibility for how they use this information. Under no circumstances shall the ASA be liable for any loss or damage arising from reliance on content provided through this website.

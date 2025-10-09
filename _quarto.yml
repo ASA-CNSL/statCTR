@@ -13,7 +13,14 @@ website:
         text: Resource Repository
       - about.qmd
   page-footer: 
-    left: "&copy; Ryan Peterson 2023" 
+    left: |
+      © 2025 ASA Consulting Section  
+      A community of the American Statistical Association  
+    right: |
+      <small>
+      The content on this site reflects the views of individual contributors and does not represent official positions of the ASA.  
+      <a href="/about.html#disclaimer">Learn more</a>
+      </small>
   repo-url: https://github.com/petersonR/statCTR
   repo-actions: [issue]
   cookie-consent: true 
