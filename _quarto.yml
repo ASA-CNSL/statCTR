@@ -21,7 +21,7 @@ website:
       The content on this site reflects the views of individual contributors and does not represent official positions of the ASA.  
       <a href="/about.html#disclaimer">Learn more</a>
       </small>
-  repo-url: https://github.com/petersonR/statCTR
+  repo-url: https://github.com/ASA-CNSL/statCTR
   repo-actions: [issue]
   cookie-consent: true 
      

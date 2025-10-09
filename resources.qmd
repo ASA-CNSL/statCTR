@@ -4,12 +4,12 @@ title: "Statistical Consulting Training Resources"
 
 ## Submit your resource to our website!
 
-Everyone can submit their own resource to this website via [this form](https://forms.gle/GG3ao19WudScgZ838). The list of existing submissions is below.
+Everyone can submit their own resource to this website via [this form](https://forms.gle/GG3ao19WudScgZ838). It may take some time to review submissions and post them here; this list was last updated on `r Sys.Date()`. The list of existing submissions is below.
 
 ## Resource Repository
 
 ::: callout-note
-Please [report an issue](https://github.com/petersonR/statCTR/issues/new) if you experience unexpected or broken links below.
+Please [report an issue](https://github.com/ASA-CNSL/statCTR/issues/new) if you experience unexpected or broken links below.
 :::
 
 ```{r, echo = FALSE, message = FALSE}
